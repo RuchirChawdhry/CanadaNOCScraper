@@ -1,3 +1,6 @@
+#!/uer/bin/env python3
+''' Script to scrape noc data. '''
+
 from bs4 import BeautifulSoup
 import requests
 import pandas as pd
